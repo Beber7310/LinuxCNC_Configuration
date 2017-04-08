@@ -146,13 +146,13 @@
   <property name="tempexists" type="int" value="0"/>
   <property name="units" type="int" value="1"/>
   <property name="usespindleatspeed" type="bool" value="False"/>
-  <property name="xhomepos" type="float" value="250.0"/>
+  <property name="xhomepos" type="float" value="200.0"/>
   <property name="xhomesw" type="float" value="178.0"/>
   <property name="xhomevel" type="float" value="-30.0"/>
   <property name="xlatchdir" type="int" value="1"/>
   <property name="xleadscrew" type="float" value="5.0"/>
   <property name="xmaxacc" type="float" value="750.0"/>
-  <property name="xmaxlim" type="float" value="600.0"/>
+  <property name="xmaxlim" type="float" value="830.0"/>
   <property name="xmaxvel" type="float" value="50.0"/>
   <property name="xmicrostep" type="float" value="2.0"/>
   <property name="xminlim" type="float" value="0.0"/>
@@ -160,8 +160,8 @@
   <property name="xpulleynum" type="float" value="1.0"/>
   <property name="xscale" type="float" value="80.0"/>
   <property name="xsteprev" type="float" value="200.0"/>
-  <property name="yhomepos" type="float" value="100.0"/>
-  <property name="yhomesw" type="float" value="86.0"/>
+  <property name="yhomepos" type="float" value="140.0"/>
+  <property name="yhomesw" type="float" value="126.0"/>
   <property name="yhomevel" type="float" value="-30.0"/>
   <property name="ylatchdir" type="int" value="1"/>
   <property name="yleadscrew" type="float" value="5.0"/>
